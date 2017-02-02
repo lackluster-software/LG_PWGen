@@ -1,0 +1,15 @@
+_PasswordGenerator
+
+--Returns a list of random passwords
+
+ex:
+biLlcluB#3        
+chIpavoW$4        
+deAlbalD*8        
+beDselsE@2        
+clAgdefT(9        
+eaTsborE!1        
+baWldinO&7        
+caMeailS)0        
+blAhdovE%5        
+chAtdamE^6
